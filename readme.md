@@ -1,1 +1,1 @@
-Simple web url-shortener
+Web url-shortener
